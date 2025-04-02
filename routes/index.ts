@@ -13,7 +13,7 @@ import {SetupLanguageScreen} from '../screens/SetupLanguageScreen';
 import {IntroSlidersScreen} from '../screens/Home/IntroSlidersScreen';
 import {RequestLayout} from '../screens/Request/RequestLayout';
 import {RequestStackParamList} from '../screens/Request/RequestLayoutController';
-import {SplashScreen} from '../screens/SplashScreen';
+import {SplashScreen} from '../screens/SplashScreen1';
 
 export const baseRoutes: Screen[] = [
   {
