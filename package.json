@@ -40,7 +40,7 @@
     "buffer": "^6.0.3",
     "color-diff": "^1.4.0",
     "date-fns": "^2.26.0",
-    "expo": "~49.0.23",
+    "expo": "~53.0.0",
     "expo-auth-session": "^5.2.0",
     "expo-barcode-scanner": "~12.3.2",
     "expo-camera": "^13.9.0",
@@ -101,7 +101,7 @@
     "react-test-renderer": "^18.2.0",
     "short-unique-id": "^4.4.4",
     "simple-pem2jwk": "^0.2.4",
-    "telemetry-sdk": "git://github.com/mosip/sunbird-telemetry-sdk.git#f762be5732ee552c0c70bdd540aa4e2701554c71",
+    "telemetry-sdk": "1.0.1",
     "text-encoding": "^0.7.0",
     "xstate": "^4.35.0"
   },
